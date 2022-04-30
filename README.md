@@ -12,8 +12,6 @@ Computer science always interested me, so I naturally ended up learning a langua
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLeShiba&layout=compact&theme=github_dark" width="500"></a>
 </p>
 
----
-
 ## <p align="center"><span>📭 Contact me</span></p>
 
 <p align="center">
@@ -29,8 +27,6 @@ Computer science always interested me, so I naturally ended up learning a langua
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
 </p>
-
----
 
 ## <p align="center"><span>✍ My project(s)</span></p>
 
