@@ -3,7 +3,9 @@
 ## <p align="center"><span>🤨 Who am I ?</span></p>
 
 Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in Python and learn to code in my free time.
+
 Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS or even C++ if I really wand to hurt myself) if this one is not enough.
+
 «When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on StackOverflow.
 
 <p align="center">
