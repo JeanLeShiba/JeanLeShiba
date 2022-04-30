@@ -6,7 +6,7 @@ Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in P
 
 Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS or even C++ if I really wand to hurt myself) if this one is not enough.
 
-«When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on StackOverflow.
+«When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on Stack Overflow.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLeShiba&layout=compact&theme=github_dark" width="500"></a>
