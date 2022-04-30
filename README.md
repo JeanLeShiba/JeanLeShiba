@@ -2,9 +2,9 @@
 
 ## <p align="center"><span>🤨 Who am I ?</span></p>
 
-Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in Python and learn to code in my free time. Computer science always interested me, so I naturally ended up learning a language such as Python.
-I'm using a SQLite3 Database inside of one of my projects so I briefly have an idea of how works structured Databases.
-Soon I'll learn another language (maybe JS or even C++ if I really wand to hurt myself) if this one is not enough because «When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on StackOverflow.
+Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in Python and learn to code in my free time.
+Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS or even C++ if I really wand to hurt myself) if this one is not enough.
+«When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on StackOverflow.
 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLeShiba&layout=compact&theme=github_dark" width="500"></a>
