@@ -1,7 +1,7 @@
 # Welcome into my GitHub page ! 👋
 
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=JeanLeShiba&label=Profile%20views&color=00ffff&style=flat" alt="JeanLeShiba" />
+    <img src="https://komarev.com/ghpvc/?username=JeanLeShiba&label=Profile+views&color=55a1f7&style=for-the-badge" alt="JeanLeShiba" />
 </p>
 
 ## <p align="center"><span>🤨 Who am I ?</span></p>
@@ -11,9 +11,8 @@ Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in P
 Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS, Rust or even C++ if I really wand to hurt myself) if this one is not enough.
 
 «When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on Stack Overflow.
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLeShiba&layout=compact&theme=github_dark" width="500"></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=JeanLeShiba&show_icons=true&layout=compact&theme=github_dark" width="500"></a>
 </p>
 
 ## <p align="center"><span>📭 Contact me</span></p>
@@ -22,14 +21,43 @@ Computer science always interested me, so I naturally ended up learning a langua
         <a href="https://dsc.bio/jls">
         <img src="https://img.shields.io/badge/-Discord-5865f2?style=for-the-badge&logo=discord&logoColor=white">
     </a>
-        <span>&nbsp;</span>
+        <span> </span>
         <a href="mailto:jeanlfbr.pro@outlook.fr">
         <img src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
-        <span>&nbsp;</span>
+        <span> </span>
         <a href="https://twitter.com/JeanLeShiba">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     </a>
+</p>
+
+## <p align="center"><span>🔧 My skills</span></p>
+
+It may not be much, but I will always learn more along the way.
+
+<table align="center">
+    <thead>
+        <tr>
+            <th colspan="1"><b>Programming Languages :</b></th>
+            <th colspan="1"><b>Databases :</b></th>
+            <th colspan="2"><b>Tools :</b></th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center">
+                <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> Python</a></td>
+            <td align="center">
+                <img title="Sqlite" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"> SQLite</a></td>
+            <td align="center">
+                <img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> VS Code
+            <td align="center">
+                <img title="Git" alt="git" width="40px" src="http://assets.stickpng.com/images/5847f981cef1014c0b5e48be.png"> Git</a></td>
+        </tr>
+    </tbody>
+</table>
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanLeShiba&layout=compact&theme=github_dark" width="500"></a>
 </p>
 
 ## <p align="center"><span>✍ My project(s)</span></p>
