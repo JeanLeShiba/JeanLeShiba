@@ -52,7 +52,7 @@ It may not be much, but I will always learn more along the way.
             <td align="center">
                 <img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> VS Code
             <td align="center">
-                <img title="Git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> Git</a></td>
+                <img title="Git" alt="git" width="40px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"> Git</a></td>
         </tr>
     </tbody>
 </table>
