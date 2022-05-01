@@ -1,10 +1,14 @@
 # Welcome into my GitHub page ! 👋
 
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=JeanLeShiba&label=Profile%20views&color=00ffff&style=flat" alt="JeanLeShiba" />
+</p>
+
 ## <p align="center"><span>🤨 Who am I ?</span></p>
 
 Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in Python and learn to code in my free time.
 
-Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS or even C++ if I really wand to hurt myself) if this one is not enough.
+Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS, Rust or even C++ if I really wand to hurt myself) if this one is not enough.
 
 «When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on Stack Overflow.
 
@@ -33,6 +37,7 @@ Computer science always interested me, so I naturally ended up learning a langua
 ### [Shibbot](http://github.com/JeanLeShiba/Shibbot)
 
 Shibbot is a multipurpose Discord bot with moderation, utilities and fun commands. It will soon include a lot of other features such as welcome messages, tickets, ranking, economy, ...
+
 The project is written in Python, using [Pycord](https://github.com/Pycord-Development/pycord) and SQLite3.
 
 <p align="center">
@@ -40,5 +45,5 @@ The project is written in Python, using [Pycord](https://github.com/Pycord-Devel
 </p>
 
 <p align="center">
- <a href="http://github.com/JeanLeShiba/Shibbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Shibbot&theme=github_dark" width="500"></a>
+    <a href="http://github.com/JeanLeShiba/Shibbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Shibbot&theme=github_dark" width="500"></a>
 </p>
