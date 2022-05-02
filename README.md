@@ -38,7 +38,7 @@ It may not be much, but I will always learn more along the way.
 <table align="center">
     <thead>
         <tr>
-            <th colspan="1"><b>Programming Languages :</b></th>
+            <th colspan="1"><b>Language(s) :</b></th>
             <th colspan="1"><b>Databases :</b></th>
             <th colspan="2"><b>Tools :</b></th>
         </tr>
@@ -46,13 +46,13 @@ It may not be much, but I will always learn more along the way.
     <tbody>
         <tr>
             <td align="center">
-                <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> Python</a></td>
+                <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></a></td>
             <td align="center">
-                <img title="Sqlite" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"> SQLite</a></td>
+                <img title="Sqlite" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a></td>
             <td align="center">
-                <img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"> VS Code
+                <img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a></td>
             <td align="center">
-                <img title="Git" alt="git" width="40px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"> Git</a></td>
+                <img title="Git" alt="git" width="40px" src="https://iconape.com/wp-content/png_logo_vector/git-icon.png"></a></td>
         </tr>
     </tbody>
 </table>
@@ -75,3 +75,17 @@ The project is written in Python, using [Pycord](https://github.com/Pycord-Devel
 <p align="center">
     <a href="http://github.com/JeanLeShiba/Shibbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Shibbot&theme=github_dark" width="500"></a>
 </p>
+
+### [Nymbo](http://github.com/JeanLeShiba/Nymbo) (soon)
+
+A minimalist french Discord bot capable of playing music in a voice channel.
+
+This project will also be written in Python and use [Pycord](https://github.com/Pycord-Development/pycord) and [Lavalink](https://github.com/freyacodes/Lavalink).
+
+<p align="center">
+    <a href="http://github.com/JeanLeShiba/Nymbo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Nymbo&theme=github_dark" width="500"></a>
+</p>
+
+---
+
+And yeah also, I like beans <img src="https://emoji.gg/assets/emoji/1340_animal_shiba_lurk_peek.png" width="25px">
