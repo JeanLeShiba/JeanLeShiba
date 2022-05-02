@@ -76,16 +76,6 @@ The project is written in Python, using [Pycord](https://github.com/Pycord-Devel
     <a href="http://github.com/JeanLeShiba/Shibbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Shibbot&theme=github_dark" width="500"></a>
 </p>
 
-### [Nymbo](http://github.com/JeanLeShiba/Nymbo) (soon)
-
-A minimalist french Discord bot capable of playing music in a voice channel.
-
-This project will also be written in Python and use [Pycord](https://github.com/Pycord-Development/pycord) and [Lavalink](https://github.com/freyacodes/Lavalink).
-
-<p align="center">
-    <a href="http://github.com/JeanLeShiba/Nymbo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Nymbo&theme=github_dark" width="500"></a>
-</p>
-
 ---
 
 And yeah also, I like beans <img src="https://emoji.gg/assets/emoji/1340_animal_shiba_lurk_peek.png" width="25px">
