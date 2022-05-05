@@ -46,7 +46,7 @@ It may not be much, but I will always learn more along the way.
     <tbody>
         <tr>
             <td align="center">
-                <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /></a></td>
+                <img title="Python" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /></a></td>
             <td align="center">
                 <img title="Sqlite" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a></td>
             <td align="center">
