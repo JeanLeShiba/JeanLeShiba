@@ -39,7 +39,7 @@ It may not be much, but I will always learn more along the way.
     <thead>
         <tr>
             <th colspan="1"><b>Language(s) :</b></th>
-            <th colspan="1"><b>Databases :</b></th>
+            <th colspan="2"><b>Databases :</b></th>
             <th colspan="2"><b>Tools :</b></th>
         </tr>
     </thead>
@@ -49,6 +49,8 @@ It may not be much, but I will always learn more along the way.
                 <img title="Python" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" /></a></td>
             <td align="center">
                 <img title="Sqlite" alt="sqlite" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png"></a></td>
+            <td align="center">
+                <img title="PostgreSQL" alt="postgresql" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"></a></td>
             <td align="center">
                 <img title="VS Code" alt="VS Code" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png"></a></td>
             <td align="center">
