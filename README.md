@@ -10,7 +10,7 @@ Hi ! My real name is Jean-Francois (call me Jean), I'm a beginner developer in P
 
 Computer science always interested me, so I naturally ended up learning a language such as Python but soon I'll learn another language (maybe JS, Rust or even C++ if I really wand to hurt myself) if this one is not enough.
 
-«When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on Stack Overflow.
+«When we want to make a piece of furniture, we learn how to build it, not use the tool that will help us.» - A random guy on StackOverflow.
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=JeanLeShiba&show_icons=true&layout=compact&theme=github_dark" width="500"></a>
 </p>
@@ -78,6 +78,13 @@ The project is written in Python, using [Pycord](https://github.com/Pycord-Devel
     <a href="http://github.com/JeanLeShiba/Shibbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=Shibbot&theme=github_dark" width="500"></a>
 </p>
 
+### [Aiogtrans](https://github.com/JeanLeShiba/aiogtrans)
+
+An asynchronous, free and unlimited to use google translate unofficial library.
+
+<p align="center">
+    <a href="http://github.com/JeanLeShiba/aiogtrans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=aiogtrans&theme=github_dark" width="500"></a>
+
 ---
 
-And yeah also, I like beans <img src="https://emoji.gg/assets/emoji/1340_animal_shiba_lurk_peek.png" width="25px">
+And also, yeah, I like beans <img src="https://emoji.gg/assets/emoji/1340_animal_shiba_lurk_peek.png" width="25px">
