@@ -81,7 +81,7 @@ To learn more about this project read read his [readme file](http://github.com/J
 
 ### [Aiogtrans](https://github.com/JeanLeShiba/aiogtrans)
 
-Aiogtrans is a module using async/await syntax that translates using the google translate tool, it is not updated and may be or is already obsolete because the code does not use the google translate api but scraps the site web, (and this practice does not follow the policy of the company).
+Aiogtrans is a module using async/await syntax that translates using the google translate tool, it is not updated and may be or is already obsolete because the code does not use the google translate api but scraps the website instead (and this practice does not follow the policy of the company).
 
 <p align="center">
     <a href="http://github.com/JeanLeShiba/aiogtrans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=aiogtrans&theme=github_dark" width="500"></a>
