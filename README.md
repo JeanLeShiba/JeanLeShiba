@@ -66,9 +66,10 @@ It may not be much, but I will always learn more along the way.
 
 ### [Shibbot](http://github.com/JeanLeShiba/Shibbot)
 
-Shibbot is a multipurpose Discord bot with moderation, utilities and fun commands. It will soon include a lot of other features such as welcome messages, tickets, ranking, economy, ...
-
+Shibbot is a multipurpose Discord bot with moderation, utilities and fun commands. It will soon include a lot of other features, stay tuned.
 The project is written in Python, using [Pycord](https://github.com/Pycord-Development/pycord) and SQLite3.
+
+To learn more about this project read read his [readme file](http://github.com/JeanLeShiba/Shibbot).
 
 <p align="center">
     <img src="https://media.discordapp.net/attachments/860958733546684429/970035768804380703/unknown.png" width="500"></a>
@@ -80,7 +81,7 @@ The project is written in Python, using [Pycord](https://github.com/Pycord-Devel
 
 ### [Aiogtrans](https://github.com/JeanLeShiba/aiogtrans)
 
-An asynchronous, free and unlimited to use google translate unofficial library.
+Aiogtrans is a module using async/await syntax that translates using the google translate tool, it is not updated and may be or is already obsolete because the code does not use the google translate api but scraps the site web, (and this practice does not follow the policy of the company).
 
 <p align="center">
     <a href="http://github.com/JeanLeShiba/aiogtrans"><img src="https://github-readme-stats.vercel.app/api/pin/?username=JeanLeShiba&repo=aiogtrans&theme=github_dark" width="500"></a>
