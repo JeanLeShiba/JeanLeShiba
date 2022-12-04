@@ -6,5 +6,3 @@
 
 > **⚠️ This account will no longer be active.**
 > I've moved there : <https://github.com/shibzel>
-
-If you're planning to do anything with one of my repos think about reading the README to see if I'm not maintaining it on my new account.
